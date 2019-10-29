@@ -8,6 +8,3 @@ while stop != 1:
     if n % i == 0:
         while g != i:
             g += 1
-
-
-dbdsvdfdf = 87
