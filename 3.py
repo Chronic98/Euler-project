@@ -1,3 +1,4 @@
+# https://euler.jakumo.org/problems/view/3.html
 
 stop = 0
 i = 0

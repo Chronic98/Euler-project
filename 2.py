@@ -1,3 +1,4 @@
+# https://euler.jakumo.org/problems/view/2.html
 
 fib = 0
 fib_2 = 1
@@ -8,7 +9,7 @@ while stop != 1:
     sum_fib = fib + fib_2
     fib = fib_2
     fib_2 = sum_fib
-    if fib_2 > 55:
+    if fib_2 > 4000000:
         stop = 1
     else:
         if sum_fib % 2 == 0:
