@@ -1,3 +1,4 @@
+
 fib = 0
 fib_2 = 1
 stop = 0

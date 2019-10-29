@@ -1,3 +1,4 @@
+
 i = 1
 sum_number = 0
 while i < 1000:
