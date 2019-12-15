@@ -1,4 +1,3 @@
-number = 0
 palidrom = 0
 for i in range(100, 1000):
     for x in range(100, 1000):
