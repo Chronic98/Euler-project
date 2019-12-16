@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7b79111-0145-417f-a912-68af75d1a7a5" name="Default Changelist" comment="">
+    <list default="true" id="f7b79111-0145-417f-a912-68af75d1a7a5" name="Default Changelist" comment="добавил ссылки на задания">
+      <change afterPath="$PROJECT_DIR$/7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576445307900</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="добавил ссылки на задания">
+      <created>1576445521481</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576445521481</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,17 +180,18 @@
     <MESSAGE value="Сделал 4" />
     <MESSAGE value="Сделал 5" />
     <MESSAGE value="Сделал 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал 6" />
+    <MESSAGE value="добавил ссылки на задания" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил ссылки на задания" />
   </component>
   <component name="WindowStateProjectService">
     <state x="541" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576280389941">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="541" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1576280389941" />
-    <state x="424" y="26" key="CommitChangelistDialog2" timestamp="1576445306618">
+    <state x="424" y="26" key="CommitChangelistDialog2" timestamp="1576454008737">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="424" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1576445306618" />
+    <state x="424" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1576454008737" />
     <state width="1515" height="277" key="GridCell.Tab.0.bottom" timestamp="1576442513999">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -218,13 +224,17 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1515" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1576442513999" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576445311927">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576445523848">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1576445311927" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1576445523848" />
     <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576442972680">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="578" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1576442972680" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1576454159543">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1576454159543" />
   </component>
 </project>
