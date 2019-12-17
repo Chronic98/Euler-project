@@ -15,7 +15,7 @@ num = 0
 n = 0
 for i in range(0, 987):
     proizvedenie = 1
-    for x in range(i, i + 14):
+    for x in range(i, i + 13):
         proizvedenie *= int(posledovatelnost[x])
     if proizvedenie > num:
         num = proizvedenie

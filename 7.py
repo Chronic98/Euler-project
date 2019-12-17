@@ -1,4 +1,4 @@
-# https://euler.jakumo.org/problems/view/7.html
+# https://projecteuler.net/problem=7
 
 n = 1
 lst = [2]

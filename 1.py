@@ -1,4 +1,4 @@
-# https://euler.jakumo.org/problems/view/1.html
+# https://projecteuler.net/problem=1
 
 i = 1
 sum_number = 0

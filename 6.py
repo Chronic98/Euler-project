@@ -1,4 +1,4 @@
-# https://euler.jakumo.org/problems/view/6.html
+# https://projecteuler.net/problem=6
 
 def sum_numder_v_kv():
     number = 0

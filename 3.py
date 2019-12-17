@@ -1,5 +1,4 @@
-# https://euler.jakumo.org/problems/view/3.html
-
+# https://projecteuler.net/problem=3
 
 def Prime_number(number):
     stop_number = 0

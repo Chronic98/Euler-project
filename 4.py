@@ -1,4 +1,4 @@
-# https://euler.jakumo.org/problems/view/4.html
+# https://projecteuler.net/problem=4
 
 palidrom = 0
 for i in range(100, 1000):

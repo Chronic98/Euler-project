@@ -1,4 +1,4 @@
-# https://euler.jakumo.org/problems/view/5.html
+# https://projecteuler.net/problem=5
 
 stop = 0
 i = 0

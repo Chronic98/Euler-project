@@ -1,4 +1,4 @@
-# https://euler.jakumo.org/problems/view/2.html
+# https://projecteuler.net/problem=2
 
 fib = 0
 fib_2 = 1
