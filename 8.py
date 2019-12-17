@@ -13,7 +13,7 @@ posledovatelnost = "731671765313306249192251196744265747423553491949349698352031
                    "23257530420752963450"
 num = 0
 n = 0
-for i in range(0, 987):
+for i in range(0, 988):
     proizvedenie = 1
     for x in range(i, i + 13):
         proizvedenie *= int(posledovatelnost[x])
