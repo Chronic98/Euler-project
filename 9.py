@@ -4,8 +4,7 @@ import math
 #     for b in range(200, 400):
 #         for a in range(100, 201):
 #             if (a + b + c == 1000) and (a < b < c) and (math.pow(a, 2) + math.pow(b, 2) == math.pow(c, 2)):
-#                 print(a, " + ", b, " = ", c)
-#                 print("---------------------")
+#                 print(a *b * c)
 
 # или
 stop = 0
@@ -21,6 +20,6 @@ for c in list_number_sqrt[::-1]:
     for b in list_number_sqrt[::-1]:
         for a in list_number_sqrt:
             if (a + b + c == 1000) and (a < b < c) and (math.pow(a, 2) + math.pow(b, 2) == math.pow(c, 2)):
-                print(a, " + ", b, " = ", c)
+                print(a * b * c)
                 stop = 1
                 break
