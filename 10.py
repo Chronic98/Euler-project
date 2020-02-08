@@ -1,3 +1,6 @@
+# https://euler.jakumo.org/problems/view/10.html
+
+import time
 n = 1
 lst = [2]
 stop = 1
@@ -30,3 +33,4 @@ for number in lst:
     hislo += number
 
 print(hislo)
+print(time.process_time())

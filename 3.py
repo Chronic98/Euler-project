@@ -1,39 +1,40 @@
 # https://projecteuler.net/problem=3
+import time
 
+
+# проверка является ли число простым
 def Prime_number(number):
-    stop_number = 0
-    ii = 1
-    while stop_number != 1:
-        ii += 1
+    for ii in range(3, number+1, 2):
         if number % ii == 0:
             if number == ii:
-                stop_number = 1
                 return number
             else:
-                stop_number = 1
+                break
 
 
 def number_dividers(desired_number):
-    stop = 0
-    i = 1
-    while stop != 1:
-        i += 1
-        if desired_number % i == 0:
-            list_n.append(i)
-        if i == desired_number:
-            stop = 1
-            return list_n
+    # может словить баг, пропустив некоторые большие делители (они как правило не являются простыми)
+    desired_number_2 = desired_number * 0.000003
+    for ii in range(3, int(desired_number_2), 2):
+        if ii < desired_number_2:
+            if desired_number % ii == 0:
+                list_n.append(ii)
+                if ii == desired_number:
+                    return list_n
 
 
-desired_number = 13195
+desired_number = 600851475143
 list_n = []
 list_number = []
 number_dividers(desired_number)
-
-for numb in list_n:
+print(list_n)
+for numb in list_n[::-1]:
     number = Prime_number(numb)
     if number:
         list_number.append(number)
-print(list_number[-1])
+        break
+print(list_number)
+print(time.process_time())
+
 
 

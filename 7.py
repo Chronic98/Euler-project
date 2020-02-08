@@ -1,4 +1,5 @@
 # https://projecteuler.net/problem=7
+from time import process_time
 
 n = 1
 lst = [2]
@@ -26,3 +27,4 @@ while stop == 1:
     r = n + 2
     n = k + 100
 print(lst[-1])
+print(process_time())

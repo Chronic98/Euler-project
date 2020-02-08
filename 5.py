@@ -1,5 +1,5 @@
 # https://projecteuler.net/problem=5
-
+# долго
 stop = 0
 i = 0
 while stop != 1:
